@@ -1,2 +1,2 @@
-# Moving and changing direction of an image by clicking over it.
-## An image moving and changing on each mouse click.
+# Pacman goign back and forth.
+### An image moving to the right by clicking over it and then returning once it touchs the right edge of the window.
