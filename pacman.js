@@ -24,7 +24,7 @@ function Run() {
     pos += 20;
     img.style.left = pos + 'px';
   }
-  setInterval(function(){Run(pos, pagewidth)}, 200);
+   setInterval(pos, pageWidth, 200);
 }
 
 function checkPageBounds(direction, imgWidth, pos, pageWidth) {
@@ -35,6 +35,3 @@ function checkPageBounds(direction, imgWidth, pos, pageWidth) {
   return direction;
   
 }
-
-//Please do not change
-module.exports = checkPageBounds;
