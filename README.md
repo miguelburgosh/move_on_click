@@ -10,6 +10,21 @@ A PacMan image moving to the right by clicking over it and then reversing direct
 
 ## Usage
 
+<p>Open the file index.html with a browser of your choice, click over the PacMan until it advances to the right window edge, then observe what happen next. </p>
+
 ## Support
 
+<p>For any comment or request please send your message to: m.burgos@burdo.mx</p>
+
 ## Roadmap
+
+<p>This project is expected to update their images.</p>
+
+## Roadmap
+
+<p>This project is expected to update their images.</p>
+
+## Roadmap
+
+<p>Code — MIT License</p>
+<p>In the PacMan going back and forth, the MIT license applies to all non-font and non-icon files.</p>
